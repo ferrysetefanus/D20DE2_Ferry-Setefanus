@@ -17,7 +17,7 @@ Anda dapat menggunakan Selenium, BeautifulSoup, maupun Scrapy.
    ![parsing](https://github.com/ferrysetefanus/D20DE2_Ferry-Setefanus/blob/main/img/parsing.jpg)
    
 4. Membuat dataframe dan melakukan transformation
-   ![dataframe](https://github.com/ferrysetefanus/D18DE2_Ferry-Setefanus/blob/main/img/console.jpg)
+   ![dataframe](https://github.com/ferrysetefanus/D20DE2_Ferry-Setefanus/blob/main/img/dataframe.jpg)
 
 5. Load dataframe ke postgresql
    ![load](https://github.com/ferrysetefanus/D20DE2_Ferry-Setefanus/blob/main/img/load.jpg)
