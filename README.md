@@ -1,4 +1,4 @@
-# Assignment Day 18 Dibimbing Data Engineering Batch 2
+# Assignment Day 20 Dibimbing Data Engineering Batch 2
 
 ## Exercise
 Buatlah program web scraping untuk meng-ekstrak data dari website apapun (Contoh website) kemudian simpan hasil scraping dalam bentuk file (csv, json) / tabel (BigQuery, Postgre, MySQL). Silahkan push hasil pekerjaan Anda ke repository GitHub.
