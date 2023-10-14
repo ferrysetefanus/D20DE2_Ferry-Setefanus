@@ -78,7 +78,7 @@ connection = psycopg2.connect(
     database="D20DE2",
     user="postgres",
     password="lostnick",
-    host="localhost",
+    host="******", # biar gak ketahuan password saya
     port="5432"
 )
 
