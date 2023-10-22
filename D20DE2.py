@@ -77,12 +77,12 @@ df['price'] = df['price'].astype(int)
 connection = psycopg2.connect(
     database="D20DE2",
     user="postgres",
-    password="lostnick",
-    host="******", # biar gak ketahuan password saya
+    password="********",
+    host="localhost", # biar gak ketahuan password saya
     port="5432"
 )
 
-engine = create_engine('postgresql://postgres:lostnick@localhost:5432/D20DE2')
+engine = create_engine('postgresql://postgres:******@localhost:5432/D20DE2')
 
 # load dataframe ke postgresql
 df.to_sql('web_scrapping1', engine, if_exists='replace', index=False)
